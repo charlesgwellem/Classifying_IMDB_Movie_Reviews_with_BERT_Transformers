@@ -1,4 +1,18 @@
 # Classifying IMDb Movie Reviews with BERT Transformers
+### Dataset
+
+This project uses IMDb movie-review datasets prepared and cleaned by **Codecademy** for its *Classifying IMDb Movie Reviews with BERT Transformers* learning project.
+
+The prepared datasets are:
+
+- `imdb_movie_reviews_train.csv` — training data
+- `imdb_movie_reviews_test.csv` — test data
+
+These are educational datasets supplied by Codecademy. I did not perform the original data cleaning.
+
+**Data availability:** The prepared CSV files are not redistributed in this repository because their redistribution permissions have not been verified. To reproduce the analysis, obtain the prepared datasets through the original Codecademy exercise and place them in the `data/` directory.
+
+**Attribution:** Codecademy — *Classifying IMDb Movie Reviews with BERT Transformers*.
 
 **Status:** Work in progress · **Python / PyTorch / Hugging Face**
 
