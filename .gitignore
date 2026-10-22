@@ -1,0 +1,9 @@
+# Codecademy datasets
+data/*.csv
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
